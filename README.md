@@ -25,7 +25,7 @@ Public TestFlight beta open. App Store launch for the 2026–27 season.
 
 Swift · SwiftUI · UIKit · Combine · Xcode · Instruments · XCTest · TestFlight
 
-Eight years shipping iOS and Android across financial, enterprise, and independent work.
+Six years shipping iOS and Android across financial, enterprise, and independent work.
 
 ## Elsewhere
 
